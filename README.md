@@ -48,3 +48,11 @@
 ## А вакансии по Rust есть?
 
 Да, есть, хотя и не много. [Чат для обсуждения вакансий](https://t.me/rust_jobs)
+
+## Не могу установить rustfmt, clippy на rust 1.31
+
+```
+rustup self update
+rustup toolchain uninstall stable
+rustup toolchain install stable
+```

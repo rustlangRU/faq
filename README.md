@@ -31,7 +31,7 @@
 
 2) [IntelliJ Rust](https://intellij-rust.github.io):
 
-   Преимещуства:
+   Преимущества:
     - Собственный парсер специально заточенный для IDE
     - Использует инфраструктуру IntelliJ IDEA
     - Знаком пользователям IDEA, CLion, Rider и тд 

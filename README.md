@@ -61,3 +61,8 @@ rustup self update
 rustup toolchain uninstall stable
 rustup toolchain install stable
 ```
+
+## Как уменьшить размер бинаря?
+
+- [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust)
+- [Why is a rust executable large](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) и [перевод](https://habr.com/en/post/305246/), [тот же перевод только на хабре](https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2016/07/07/why-big-bin.html)
